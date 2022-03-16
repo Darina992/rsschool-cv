@@ -7,7 +7,7 @@
 * Telegram Darya Nestser
 
 ## About Me
-I am 30 years old, I don't work now. I spend all my strength on studying. I really need in activities where I can develop during my life. My goal is to become a front-end developer.
+I am 30 years old, I don't work now, because of I spend all my strength on studying. I really need in activities where I can develop during my life. My goal is to become a front-end developer.
 
 ## Strength
 + Full immersion in the essence of the problems
