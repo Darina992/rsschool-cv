@@ -41,3 +41,7 @@ function specialNumber(n){
 ## Languages
 * Russian - native speaker.
 * English - B1 (B2 in process…)
+
+## Projects
+* Website for sladostory.minsk : https://darina992.github.io/my-first-project/
+* Mini games for kids : https://mini-games-for-kids-fa10e.web.app/#home
